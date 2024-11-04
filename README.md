@@ -14,6 +14,7 @@ Paper Download:[MxT: Mamba x Transformer for Image Inpainting](https://arxiv.org
 ## News
 - [x] Training Code
 - [x] Pre-trained Models
+- [ ] Code for large resolution
 
 
 **Dataset**
