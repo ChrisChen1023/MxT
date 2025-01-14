@@ -63,6 +63,7 @@ For testing, in `config.yml`, set the `--MAKS 6` for the fixed mask index, then 
 ```
 python test.py
 ```
+[High resolution Image Inpainting]
 
 
 **Citation**
