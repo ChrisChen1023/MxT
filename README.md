@@ -44,7 +44,7 @@ causal-conv1d
 
 mamba-ssm
 
-If you got problem during setting Mamba, please refer to http://places2.csail.mit.edu/download.html
+If you got problem during setting Mamba, please refer to https://github.com/bowang-lab/U-Mamba
 
 **Pre-trained model**
 --------------------
