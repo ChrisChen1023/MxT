@@ -40,6 +40,12 @@ Python >=3.7
 
 PyTorch
 
+causal-conv1d 
+
+mamba-ssm
+
+If you got problem during setting Mamba, please refer to http://places2.csail.mit.edu/download.html
+
 **Pre-trained model**
 --------------------
 We released the pre-trained model 
