@@ -5,6 +5,7 @@ import numpy as np
 import torch
 import argparse
 from shutil import copyfile
+from src.config import Config
 from src.mxt import mxt
 
 def main(mode=None):
