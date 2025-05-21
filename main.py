@@ -44,7 +44,7 @@ def main(mode=None):
 
 
     # build the model and initialize
-    model = Lafin(config)
+    model = mxt(config)
     model.load()
 
 
